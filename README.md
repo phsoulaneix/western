@@ -63,9 +63,9 @@ public class brigand extends Humain implements Hors_la_loi {
 Dans la classe Brigand, il faut être bien sur que toutes les méthodes décrite dans l’interface Hors la loi existent ! 
 Question 2.1: Brigand
 --------------------
- Ecrivez l’interface Hors la loi et dites qu’un brigand est un hors-la-loi.
- Question 2.2: Les cowboys chassent les hors-la-loi
- --------------------
+Ecrivez l’interface Hors la loi et dites qu’un brigand est un hors-la-loi.
+Question 2.2: Les cowboys chassent les hors-la-loi
+--------------------
 On peut également utiliser l’interface hors-la-loi dans nos fonctions. Ainsi, un cowboy n’arrête pas seulement les brigands, mais tous les hors-la-loi. De même une dame peut se faire kidnapper par n’importe quelle sorte de hors-la-loi. Modifiez les fonctions concernées pour tenir compte de ceci (vous devriez normalement uniquement remplacer Brigand par Hors la loi). Testez. 
 Question 2.3: Tous pourris
 --------------------
